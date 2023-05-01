@@ -55,7 +55,8 @@ The questions that I tried to answer are :
 - What are the trends and forecast for the listing price?
 ### Analysis:
 #### NY market:
-`![New York Market](New york Market.png)`
+
+![New York Market](NewyorkMarket.png)
 We have the followings:
 - 30236 listings and 24272 hosts mainly located in Manhattan and Brooklyn
 - more listings in the summer with almost the sam price across the year exception a drop in july and raise in january but it doesn't follow the offer during the year.
@@ -68,7 +69,7 @@ We have the followings:
 From count of listings we can see that it is mainly in Manhattan with 53% and Brooklyn with 38%. Also Manhatan has the highest median followed by Brooklyn. From rating score, all the neighbourhood have an average score of 92% and staten island 91%.
 #### Heat map
 From reviews Manhattan have 55% from the total and Brooklyn 37%.
-It is intersting to notice from the heat map that the short term rental are again entire home and private room maily located in mahhattan 
+It is intersting to notice from the heat map that the short term rental are again entire home and private room maily located in mahattan 
 
 
 
